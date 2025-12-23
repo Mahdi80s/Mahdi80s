@@ -1,55 +1,75 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MahdiSardari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align=left">
+ <img src="https://komarev.com/ghpvc/?username=MahdiSardari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-```
+<p align=center">
+ 
+</p>
+
+<div align="center">
+
+<pre>
 ███╗   ███╗ █████╗ ██╗  ██╗██████╗ ██╗    ███████╗ █████╗ ██████╗ ██████╗  █████╗ ██████╗ ██╗
 ████╗ ████║██╔══██╗██║  ██║██╔══██╗██║    ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║
 ██╔████╔██║███████║███████║██║  ██║██║    ███████╗███████║██████╔╝██║  ██║███████║██████╔╝██║
 ██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    ╚════██║██╔══██║██╔══██╗██║  ██║██╔══██║██╔══██╗██║
 ██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║██║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
+</pre>
 
-<h3 align="center">DevOps Tech Lead | Infrastructure & Automation</h3>
+<h3>DevOps | DevSecOps Director</h3>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ whoami`
+## 💻 `$ whoami`
 
 ```yaml
-name: Mahdi Sardari
-role: DevOps Tech Lead
-location: Iran
-focus: Infrastructure Automation, CI/CD, Observability, Distributed Systems
+experience:
+  - role: "DevOps Tech Lead"
+    scope:
+      - "Architecting and operating Kubernetes-based production platforms"
+      - "Designing and maintaining CI/CD pipelines with GitLab CI, Jenkins, and Ansible"
+      - "Driving infrastructure automation to minimize manual operations"
+      - "Implementing full observability stacks (metrics, logs, alerting)"
+      - "Improving system availability using load balancing and HA patterns"
+      - "Applying DevSecOps practices across infrastructure and pipelines"
+      - "Optimizing distributed messaging systems for high throughput"
+    impact:
+      - "Increased deployment reliability and consistency"
+      - "Reduced incident response time through better observability"
+      - "Improved platform scalability and fault tolerance"
+      - "Led and mentored DevOps engineers"
 
-current_work:
-  - Architecting Kubernetes-based platforms
-  - Building reliable CI/CD pipelines
-  - Implementing monitoring & observability stacks
-  - Leading DevOps team
-
-interests:
-  - Cloud Native Technologies
-  - Site Reliability Engineering
-  - Infrastructure as Code
+  - role: "DevOps Engineer"
+    scope:
+      - "Linux system administration and server lifecycle management"
+      - "Automation of repetitive operational tasks using Bash"
+      - "Containerizing services and workloads"
+      - "Deploying and maintaining Kubernetes environments"
+      - "Implementing monitoring and performance optimization"
+    impact:
+      - "Stabilized production systems"
+      - "Improved system performance and visibility"
+      - "Delivered maintainable and automated infrastructure"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Containers & Orchestration**
+**🐳 Containers & Orchestration**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**CI/CD & Automation**
+**⚡ CI/CD & Automation**
 
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -57,7 +77,7 @@ interests:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Code Quality & Security**
+**🔒 Code Quality & Security**
 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![DefectDojo](https://img.shields.io/badge/DefectDojo-1B9CFC?style=for-the-badge&logo=security&logoColor=white)
@@ -67,7 +87,7 @@ interests:
 </td>
 <td valign="top" width="50%">
 
-**Monitoring & Observability**
+**📊 Monitoring & Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -75,14 +95,14 @@ interests:
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![EFK Stack](https://img.shields.io/badge/EFK_Stack-326CE5?style=for-the-badge&logo=fluentd&logoColor=white)
 
-**Web & Networking**
+**🌐 Web & Networking**
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-0099CC?style=for-the-badge&logo=haproxy&logoColor=white)
 ![Keepalived](https://img.shields.io/badge/Keepalived-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
-**Infrastructure & Storage**
+**💾 Infrastructure & Storage**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
@@ -93,7 +113,7 @@ interests:
 </tr>
 </table>
 
-**Exploring**
+**🔭 Exploring**
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -103,7 +123,7 @@ interests:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Certifications
+## 🏅 Certifications
 
 ![LPIC-1](https://img.shields.io/badge/LPIC--1-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LPIC-2](https://img.shields.io/badge/LPIC--2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -111,7 +131,8 @@ interests:
 ![LPIC-305](https://img.shields.io/badge/LPIC--305-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
 ![LPIC-306](https://img.shields.io/badge/LPIC--306-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network+-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes_Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKAD](https://img.shields.io/badge/CKAD-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CKA](https://img.shields.io/badge/CKA-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps_Pack-0A66C2?style=for-the-badge&logo=devops&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Ceph](https://img.shields.io/badge/Ceph_Storage-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
@@ -119,35 +140,7 @@ interests:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Experience
-
-```
-DevOps Tech Lead @ Ministry of Education                         2023 - Present
-├── Architecting Kubernetes clusters & Docker Swarm environments
-├── CI/CD pipelines with GitLab, Jenkins, Ansible
-├── Enterprise infrastructure: VMware ESXi, Ceph storage
-├── Monitoring: Prometheus, Grafana, Zabbix, EFK/ELK
-├── HA setup: HAProxy, Keepalived, Nginx
-└── Kafka for distributed messaging
-
-Freelance DevOps Engineer                                        2020 - 2023
-├── Linux system administration
-├── Automation with Bash & Kubernetes
-└── Monitoring solutions & optimization
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Education
-
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| M.Sc. IT Management | Azad Markazi | 2025 – Present |
-| B.B.A. Business Administration | Azad Eslamshahr | 2020 – 2024 |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Philosophy
+## 🧠 Philosophy
 
 ```bash
 $ cat /etc/devops/principles
@@ -163,7 +156,11 @@ $ cat /etc/devops/principles
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Connect
+### Professional Services
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Connect
 
 <p align="center">
 	<a href="mailto:m.sardari80@gmail.com"><img alt="email" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
@@ -173,23 +170,7 @@ $ cat /etc/devops/principles
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiSardari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiSardari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSardari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahdiSardari&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
+## 📈 GitHub Stats
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
