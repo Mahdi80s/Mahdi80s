@@ -9,67 +9,190 @@
 ██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    ╚════██║██╔══██║██╔══██╗██║  ██║██╔══██║██╔══██╗██║
 ██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    ███████║██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║██║
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-
-DevOps|DevSecOps Tech Lead 
 ```
+
+<h3 align="center">DevOps Tech Lead | Infrastructure & Automation</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## About
+## `$ whoami`
 
-DevOps Tech Lead with strong expertise in infrastructure automation, CI/CD, observability, and distributed systems. Experienced in architecting and implementing scalable DevOps solutions while leading and mentoring a team of engineers. Passionate about cutting-edge technologies and continuous improvement in reliability and performance.
+```yaml
+name: Mahdi Sardari
+role: DevOps Tech Lead
+location: Iran
+focus: Infrastructure Automation, CI/CD, Observability, Distributed Systems
+
+current_work:
+  - Architecting Kubernetes-based platforms
+  - Building reliable CI/CD pipelines
+  - Implementing monitoring & observability stacks
+  - Leading DevOps team
+
+interests:
+  - Cloud Native Technologies
+  - Site Reliability Engineering
+  - Infrastructure as Code
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Tech Stack
 
-<h4><b>Containers & Orchestration</b></h4>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![](https://skillicons.dev/icons?i=docker,kubernetes&perline=12)
+**Containers & Orchestration**
 
-<h4><b>CI/CD & Automation</b></h4>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![](https://skillicons.dev/icons?i=gitlab,jenkins,ansible,bash&perline=12)
+**CI/CD & Automation**
 
-<h4><b>Monitoring & Observability</b></h4>
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://skillicons.dev/icons?i=prometheus,grafana&perline=12)
+**Code Quality & Security**
 
-<h4><b>Web & Networking</b></h4>
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![DefectDojo](https://img.shields.io/badge/DefectDojo-1B9CFC?style=for-the-badge&logo=security&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1ABC9C?style=for-the-badge&logo=sonatype&logoColor=white)
 
-![](https://skillicons.dev/icons?i=nginx&perline=12)
+</td>
+<td valign="top" width="50%">
 
-<h4><b>Infrastructure</b></h4>
+**Monitoring & Observability**
 
-![](https://skillicons.dev/icons?i=linux&perline=12)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![EFK Stack](https://img.shields.io/badge/EFK_Stack-326CE5?style=for-the-badge&logo=fluentd&logoColor=white)
 
-<h4><b>Messaging</b></h4>
+**Web & Networking**
 
-![](https://skillicons.dev/icons?i=kafka&perline=12)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-0099CC?style=for-the-badge&logo=haproxy&logoColor=white)
+![Keepalived](https://img.shields.io/badge/Keepalived-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+
+**Infrastructure & Storage**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+**Exploring**
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+![Hybrid Cloud](https://img.shields.io/badge/Hybrid_Multicloud-0066CC?style=flat-square&logo=icloud&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Certifications
 
-```text
-LPIC 303/305/306          ████████████░░░░░░░░   In Progress (2025)
-AWS                       ████████████░░░░░░░░   In Progress (2025)
-Advanced Kubernetes       ████████████████████   Completed (2024)
-Ceph Storage              ████████████████████   Completed (2024)
-DevOps Pack               ████████████████████   Completed (2023)
-LPIC-1 & LPIC-2           ████████████████████   Completed (2020)
-DevSecOps                 ████████████████████   Completed (2020)
-Network+                  ████████████████████   Completed (2020)
+![LPIC-1](https://img.shields.io/badge/LPIC--1-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LPIC-2](https://img.shields.io/badge/LPIC--2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LPIC-303](https://img.shields.io/badge/LPIC--303-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
+![LPIC-305](https://img.shields.io/badge/LPIC--305-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
+![LPIC-306](https://img.shields.io/badge/LPIC--306-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
+![Network+](https://img.shields.io/badge/Network+-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps_Pack-0A66C2?style=for-the-badge&logo=devops&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph_Storage-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Experience
+
+```
+DevOps Tech Lead @ Ministry of Education                         2023 - Present
+├── Architecting Kubernetes clusters & Docker Swarm environments
+├── CI/CD pipelines with GitLab, Jenkins, Ansible
+├── Enterprise infrastructure: VMware ESXi, Ceph storage
+├── Monitoring: Prometheus, Grafana, Zabbix, EFK/ELK
+├── HA setup: HAProxy, Keepalived, Nginx
+└── Kafka for distributed messaging
+
+Freelance DevOps Engineer                                        2020 - 2023
+├── Linux system administration
+├── Automation with Bash & Kubernetes
+└── Monitoring solutions & optimization
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Engineering Philosophy
+## Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| M.Sc. IT Management | Azad Markazi | 2025 – Present |
+| B.B.A. Business Administration | Azad Eslamshahr | 2020 – 2024 |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Philosophy
+
+```bash
+$ cat /etc/devops/principles
+```
 
 > *"Automation is not about speed, it's about reliability."*
 
 > *"If a system cannot be observed, it cannot be trusted."*
 
 - Build for failure, not for hope
-- Prefer clarity over cleverness
+- Prefer clarity over cleverness  
 - Production is the ultimate test environment
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Connect
+
+<p align="center">
+	<a href="mailto:m.sardari80@gmail.com"><img alt="email" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
+	<a href="https://linkedin.com/in/MahdiSardari"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/MahdiSardari"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahdiSardari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiSardari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiSardari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahdiSardari&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <i>Open to collaboration on infrastructure, automation, and distributed systems.</i>
+</p>
